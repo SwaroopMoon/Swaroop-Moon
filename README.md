@@ -3,12 +3,12 @@
 🎓 2nd Year Electronics Engineering student at YCCE, Nagpur  
 💡 Exploring the synergy between hardware and software  
 💻 Passionate about Python, Web Development, and Circuit Design  
-🎯 Currently learning: Git, Bootstrap, DSA
+🎯 Currently learning: Git, C++
 
 ## 🛠️ Skills
 - **Languages**: Python, C
 - **Tools**: Git, GitHub, VS Code
-- **Web**: HTML, CSS (learning Bootstrap)
+- **Web**: HTML, CSS , Javascript
 - **Electronics**: Circuit Design, Microcontrollers (learning phase)
 
 ## 📫 Connect with Me
