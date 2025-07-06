@@ -7,7 +7,8 @@
 
 ## 🛠️ Skills
 - **Languages**: https://img.shields.io/pypi/pyversions/:packageName
-, C
+, https://img.shields.io/conan/v/:packageName
+
 - **Tools**: Git, GitHub, VS Code
 - **Web**: HTML, CSS , Javascript
 - **Electronics**: Circuit Design, Microcontrollers (learning phase)
