@@ -6,8 +6,7 @@
 🎯 Currently learning: Git, C++
 
 ## 🛠️ Skills
-- **Languages**: https://img.shields.io/pypi/pyversions/:packageName
-, https://img.shields.io/conan/v/:packageName
+- **Languages**: Python, C
 
 - **Tools**: Git, GitHub, VS Code
 - **Web**: HTML, CSS , Javascript
