@@ -41,6 +41,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swaroop-moon/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SwaroopMoon)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SwaroopMoon)
 
 ---
 
