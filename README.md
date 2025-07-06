@@ -6,7 +6,8 @@
 🎯 Currently learning: Git, C++
 
 ## 🛠️ Skills
-- **Languages**: Python, C
+- **Languages**: https://img.shields.io/pypi/pyversions/:packageName
+, C
 - **Tools**: Git, GitHub, VS Code
 - **Web**: HTML, CSS , Javascript
 - **Electronics**: Circuit Design, Microcontrollers (learning phase)
