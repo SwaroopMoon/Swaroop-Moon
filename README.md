@@ -3,7 +3,7 @@
 🎓 2nd Year Electronics Engineering student at YCCE, Nagpur  
 💡 Exploring the synergy between hardware and software  
 💻 Passionate about Python, Web Development, and Circuit Design  
-🎯 Currently learning: Git, C++
+🎯 Currently learning: Git, Django
 
 ---
 
