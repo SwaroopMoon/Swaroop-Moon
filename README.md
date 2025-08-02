@@ -9,8 +9,8 @@
 
 ## 📊 GitHub Stats
 
-![Swaroop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwaroopMoon&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwaroopMoon&layout=compact&theme=radical)
+![Swaroop's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SwaroopMoon&show_icons=true&theme=radical)\n
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SwaroopMoon&layout=compact&theme=radical)\n
 [![GitHub Streak](https://streak-stats.demolab.com?user=SwaroopMoon&theme=radical)](https://git.io/streak-stats)
 
 ---
