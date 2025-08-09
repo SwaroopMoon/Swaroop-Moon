@@ -1,9 +1,10 @@
 # Hi there, I'm Swaroop Moon 👋
 
-🎓 2nd Year Electronics Engineering student at YCCE, Nagpur
-💡 Exploring the synergy between hardware and software
-💻 Passionate about Python, Web Development, Circuit Design, Artificial Intelligence, and Machine Learning
-🎯 Currently learning: Matplotlib, AR/VR/MR/XR technologies
+🎓 2nd Year Electronics Engineering student at YCCE, Nagpur  
+💡 Exploring the synergy between hardware and software  
+💻 Passionate about Python, Web Development, Circuit Design, Artificial Intelligence, and Machine Learning  
+🎯 Currently learning: Matplotlib, AR/VR/MR/XR technologies  
+
 
 ## 📊 GitHub Stats
 
