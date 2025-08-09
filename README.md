@@ -36,9 +36,9 @@
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-learning-informational?style=for-the-badge)
 
 ## 🎮 Technologies
+![Augmented Reality](https://img.shields.io/badge/Augmented%20Reality-008080?style=for-the-badge&logo=augmentedreality&logoColor=white)
+![Virtual Reality](https://img.shields.io/badge/Virtual%20Reality-4B0082?style=for-the-badge&logo=virtualreality&logoColor=white)
 
-![Augmented Reality](https://img.shields.io/badge/AR-008080?style=for-the-badge&logo=augmentedreality&logoColor=white)
-![Virtual Reality](https://img.shields.io/badge/VR-4B0082?style=for-the-badge&logo=virtualreality&logoColor=white)
 
 ---
 
