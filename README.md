@@ -35,10 +35,10 @@
 ![Circuit Design](https://img.shields.io/badge/Circuit%20Design-blue?style=for-the-badge)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-learning-informational?style=for-the-badge)
 
-## 🎮 AR/VR Development
+## 🎮 Technologies
 
-![AR](https://img.shields.io/badge/AR-008080?style=for-the-badge&logo=augmentedreality&logoColor=white)
-![VR](https://img.shields.io/badge/VR-4B0082?style=for-the-badge&logo=virtualreality&logoColor=white)
+![Augmented Reality](https://img.shields.io/badge/AR-008080?style=for-the-badge&logo=augmentedreality&logoColor=white)
+![Virtual Reality](https://img.shields.io/badge/VR-4B0082?style=for-the-badge&logo=virtualreality&logoColor=white)
 
 ---
 
