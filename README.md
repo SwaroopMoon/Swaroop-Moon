@@ -4,7 +4,6 @@
 💡 Exploring the synergy between hardware and software  
 💻 Passionate about Python, Web Development, Circuit Design, Artificial Intelligence and Machine Learning
 🎯 Currently learning: Matplotlib, AR/VR/MR/XR technologies
----
 
 ## 📊 GitHub Stats
 
