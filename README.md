@@ -93,33 +93,34 @@
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/swaroop-moon/" style="display:inline-block; margin:6px;">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn" 
+  <a href="https://www.linkedin.com/in/swaroop-moon/" target="_blank" rel="noopener noreferrer" style="margin: 6px;">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
     />
   </a>
-  <a href="https://github.com/SwaroopMoon" style="display:inline-block; margin:6px;">
-    <img 
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" 
-      alt="GitHub" 
+  <a href="https://github.com/SwaroopMoon" target="_blank" rel="noopener noreferrer" style="margin: 6px;">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
     />
   </a>
-  <a href="https://x.com/SwaroopMoon" style="display:inline-block; margin:6px;">
-    <img 
-      src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" 
-      alt="Twitter/X" 
+  <a href="https://x.com/SwaroopMoon" target="_blank" rel="noopener noreferrer" style="margin: 6px;">
+    <img
+      src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"
+      alt="Twitter/X"
     />
   </a>
   <br />
-  <a href="mailto:swaroopmoon@gmail.com" style="display:inline-block; margin:6px;">
-    <img 
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Email" 
-      style="border-radius:8px;" 
+  <a href="mailto:swaroopmoon@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 6px;">
+    <img
+      src="https://img.shields.io/badge/Email-swaroopmoon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+      style="border-radius: 8px;"
     />
   </a>
 </p>
+
 
 
 ---
