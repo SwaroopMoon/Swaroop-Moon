@@ -38,6 +38,9 @@
 ## 🎮 Technologies
 ![Augmented Reality](https://img.shields.io/badge/Augmented%20Reality-008080?style=for-the-badge&logo=augmentedreality&logoColor=white)
 ![Virtual Reality](https://img.shields.io/badge/Virtual%20Reality-4B0082?style=for-the-badge&logo=virtualreality&logoColor=white)
+![Mixed Reality](https://img.shields.io/badge/Mixed%20Reality-800080?style=for-the-badge&logo=mixedreality&logoColor=white)
+![Extended Reality](https://img.shields.io/badge/Extended%20Reality-000000?style=for-the-badge&logo=extendedreality&logoColor=white)
+
 
 
 ---
